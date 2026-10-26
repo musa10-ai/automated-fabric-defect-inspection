@@ -19,5 +19,4 @@ An end-to-end computer vision pipeline for real-time anomaly detection in indust
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/musa10-ai/automated-fabric-defect-inspection.git](https://github.com/musa10-ai/automated-fabric-defect-inspection.git)
-   cd automated-fabric-defect-inspection
+   git clone https://github.com/musa10-ai/automated-fabric-defect-inspection.git
