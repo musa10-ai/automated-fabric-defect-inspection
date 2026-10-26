@@ -1,0 +1,9 @@
+﻿venv/
+venv2/
+__pycache__/
+*.pyc
+datasets/
+results/
+data/*.db
+data/heatmaps/
+.pytest_cache/
